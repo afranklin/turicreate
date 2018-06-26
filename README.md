@@ -131,6 +131,8 @@ Documentation
 The package [User Guide](https://apple.github.io/turicreate/docs/userguide) and [API Docs](https://apple.github.io/turicreate/docs/api) contain
 more details on how to use Turi Create.
 
+Questions? Ask the team on github issues.
+
 GPU Support
 -----------
 
