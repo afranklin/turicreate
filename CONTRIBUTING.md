@@ -6,3 +6,5 @@ that your contributions are licensed under the [BSD-3 license](LICENSE.md).
 
 Before submitting the pull request, please make sure you have [tested](BUILD.md) your
 changes by running Python and C++ unit tests.
+
+-- sample change ---
